@@ -1,7 +1,10 @@
 # calculators
 
+[On Github Pages](https://horacebury.github.io/Calculators/dist/)
 
 ## Created with
+https://cli.vuejs.org/guide/creating-a-project.html#vue-create
+
 npm install -g @vue/cli
 vue create calculators
 
