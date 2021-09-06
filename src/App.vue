@@ -1,5 +1,5 @@
 <template>
-  <img alt="Vue logo" src="./assets/logo.png">
+  <a href="https://github.com/HoraceBury/Calculators">Source</a>
   <StockProfit/>
 </template>
 
